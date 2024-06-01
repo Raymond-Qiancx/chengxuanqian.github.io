@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/Raymond-Qiancx/chengxuanqian.github.io/sitemap.xml
+Sitemap: https://chengxuanqian.github.io/sitemap.xml
